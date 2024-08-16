@@ -1,0 +1,40 @@
+body{
+    background-image: radial-gradient(circle at center, rgb(248, 243, 243),rgb(14, 14, 15));
+
+}
+.h2{
+   text-align: center;
+   color: red;
+   font-size: 30px;
+   
+}
+
+li{
+  font-size:15px; 
+}
+#deco{
+  margin-left: 450px;
+}   
+
+
+.nav-link:hover{
+  border-bottom: 5px solid blueviolet;
+}
+.total {
+  color: red;
+  font-size: 20px;
+  margin: 20px;
+}
+td {
+  
+  color: royalblue;
+ 
+}
+#home {
+font-family:'Courier New', Courier, monospace;
+font-size: 18px;
+color: blue;
+}
+#nav {
+border-radius: 10px;
+}

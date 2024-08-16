@@ -1,0 +1,36 @@
+body {
+    // background-image: radial-gradient(circle at center, rgb(248, 243, 243),rgb(14, 14, 15));
+    background: white;
+}
+.ajouter{
+    
+    margin: 60px;
+     margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+ button{
+   
+    width: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: blue;   
+}
+.lien{
+     margin-left: 400px;
+    
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+     margin: 150px;
+    width: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: red; 
+}

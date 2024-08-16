@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    pad: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-image: radial-gradient(circle at center,white,black);
+}
+
+.historique {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(224, 16, 16);
+    margin: 20px;
+}
+
+.slide-conten {
+    margin: 0 30px;
+    overflow: hidden;
+}
+
+.contenaire {
+    max-width: 90%;
+    width: 100%;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.cadre {
+   
+    background-color: rgb(233, 233, 240);
+    border-radius: 8px;
+}
+.cadre .image {
+    height: 400px;
+}
+.cadre .image img {
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+
+}
+.cadre .profil {
+    display: flex;
+    align-items: center;
+    column-gap: 12px;
+    padding: 15px;
+}
+.cadre .profil img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%; 
+}
+.profil .name {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.profil .lieu {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color: red;
+}
+
+.swiper-navBtn::before,
+.swiper-navBtn::after {
+    font-size: 18px;
+}
+
+.swiper-button-next {
+    color: white;
+    border: solid white 2px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+   
+}
+.swiper-button-prev {
+    color: white;
+    border: solid white 2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.retour{
+    margin :50px;
+    border: 2px solid black;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    margin-left: 50%;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.retour1{
+   margin: 20px;
+   width: 30px;
+   height: 20px;
+   margin-left: 50%;
+}

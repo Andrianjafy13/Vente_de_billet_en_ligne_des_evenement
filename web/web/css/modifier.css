@@ -1,0 +1,51 @@
+body{
+    background-color:white
+   
+}
+ .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 20%;
+    border-radius: 50%;
+}
+.nom {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.ajouter{
+
+    margin: 60px;
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+button{
+
+    width: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: blue;
+
+}
+.lien{
+    margin-left: 400px; 
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 150px;
+    width: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: red; 
+}

@@ -1,0 +1,43 @@
+div.gallery {
+    margin: 50px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 80%;
+  height: auto;
+}
+.btn{
+    margin: 10px;
+}
+.row{
+    margin-left: 250px;
+}
+
+.lien{
+    margin-left: 400px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 150px;
+    width: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: red; 
+}
+.h2{
+     text-align: center;
+     color: red;
+     font-size: 30px;
+     
+ }

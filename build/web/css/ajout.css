@@ -1,0 +1,85 @@
+body{
+             background: white;
+}
+.btn{
+   text-align: center;
+   background-color: blueviolet;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 10px;
+   margin: 20px;
+   margin-left: 45%;
+   
+}
+.btn1{
+   text-align: center;
+   background-color: red;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 10px;
+   margin: 20px;
+   margin-left: 45%;
+   
+   
+}
+.btn1 a{
+   text-decoration: none;
+}
+.h2{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    
+}
+
+#conn1{
+margin-left: 100px;
+}
+li{
+   font-size:18px; 
+}
+
+.nav-link:hover{
+   border-bottom: 5px solid blueviolet;
+}
+#home {
+   font-family:'Courier New', Courier, monospace;
+   font-size: 18px;
+   color: blue;
+}
+#nav {
+   border-radius: 10px 10px 10px 10px;
+}
+
+.ajouter{
+
+    margin: 60px;
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+button{
+
+    width: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: blue;
+
+}
+.lien{
+    margin-left: 400px; 
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 150px;
+    width: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: red; 
+}
